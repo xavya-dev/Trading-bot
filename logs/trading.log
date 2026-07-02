@@ -1,0 +1,6 @@
+2026-07-01 13:16:11,765 - INFO - Market Order Request: BTCUSDT BUY 0.001
+2026-07-01 13:16:11,765 - ERROR - Market Order Error: API Secret required for private endpoints
+2026-07-01 13:16:31,898 - INFO - Limit Order Request: BTCUSDT BUY 0.001 100000.0
+2026-07-01 13:16:31,898 - ERROR - Limit Order Error: API Secret required for private endpoints
+2026-07-01 13:30:43,478 - INFO - Market Order Request: BTCUSDT BUY 0.001
+2026-07-01 13:30:43,478 - ERROR - Market Order Error: API Secret required for private endpoints
