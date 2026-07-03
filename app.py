@@ -1,7 +1,7 @@
 import streamlit as st
 from bot.client import BinanceFuturesClient
 
-# Nimma testnet keys illi haaki
+#API keys
 API_KEY = "4MJlSQqtKGnWLF5MpvrbV01GnIrwIdsGKRuNIu6L8iu6y7S4SKLmUYNaYwGVJlo7"
 API_SECRET = "HdP6kt8CBXlMtBANqJ555NLcQ0lq7L38FNRozLObIWpNBks608UYrobNJDUmeu2N"
 
